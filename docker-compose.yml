@@ -1,0 +1,7 @@
+version: "3"
+services:
+  web:
+    image: 2-do-list-dynamic-ui
+    build: .
+    ports:
+      - "8081:8080"
