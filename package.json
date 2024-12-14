@@ -1,0 +1,20 @@
+{
+  "name": "2-do-list-dynamic-ui",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "EugeniaBzh",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-drag-drop": "^1.1.1",
+    "express": "^4.21.2",
+    "live-server": "^1.2.2",
+    "socket.io": "^4.8.1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  }
+}
